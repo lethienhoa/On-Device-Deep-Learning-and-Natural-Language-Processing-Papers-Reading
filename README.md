@@ -1,5 +1,6 @@
 #### On-device Deep Learning and Natural Language Processing
 
+- **On the Robustness of Projection Neural Networks For Efficient Text Representation: An Empirical Study**. Chinnadhurai Sankar et al. Arxiv 2019. [[pdf](https://arxiv.org/pdf/1908.05763.pdf)]
 - **ProSeqo: Projection Sequence Networks for On-Device Text Classification**. Zornitsa Kozareva and Sujith Ravi. EMNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1402.pdf)]
 - **PRADO: Projection Attention Networks for Document Classification On-Device**. Prabhu Kaliamoorthi et al. EMNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1506.pdf)]
 - **On-device Structured and Context Partitioned Projection Networks**. Sujith Ravi and Zornitsa Kozareva. ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1368.pdf)]
