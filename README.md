@@ -8,6 +8,7 @@
 - **Transferable Neural Projection Representations**. Chinnadhurai Sankar et al. NAACL 2019. [[pdf](https://arxiv.org/pdf/1906.01605.pdf)]
 - **Self-Governing Neural Networks for On-Device Short Text Classification**. Sujith Ravi and Zornitsa Kozareva. EMNLP 2018. [[pdf](https://www.aclweb.org/anthology/D18-1105.pdf)]
 - **ProjectionNet: Learning Efficient On-Device Deep Networks Using Neural Projections**. Sujith Ravi. Arxiv 2017. [[pdf](https://arxiv.org/pdf/1708.00630.pdf)]
+
     **Learning methods of efficient models under limited size or memory constraints:**
     - [Binarization strategies for network] **Binarynet: Training deep neural networks with weights and activations constrained to +1 or -1**. Courbariaux et al. Arxiv 2016. [[pdf](https://arxiv.org/pdf/1602.02830.pdf)]
     - [Reduced numerical precision] **Low precision arithmetic for deep learning**. Courbariaux et al. Workshop ICLR 2015. [[pdf](https://arxiv.org/pdf/1412.7024.pdf)]
