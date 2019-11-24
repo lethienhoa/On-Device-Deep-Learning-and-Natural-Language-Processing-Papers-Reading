@@ -8,6 +8,12 @@
 - **Transferable Neural Projection Representations**. Chinnadhurai Sankar et al. NAACL 2019. [[pdf](https://arxiv.org/pdf/1906.01605.pdf)]
 - **Self-Governing Neural Networks for On-Device Short Text Classification**. Sujith Ravi and Zornitsa Kozareva. EMNLP 2018. [[pdf](https://www.aclweb.org/anthology/D18-1105.pdf)]
 - **ProjectionNet: Learning Efficient On-Device Deep Networks Using Neural Projections**. Sujith Ravi. Arxiv 2017. [[pdf](https://arxiv.org/pdf/1708.00630.pdf)]
+    **Learning methods of efficient models under limited size or memory constraints:**
+    - [Binarization strategies for network] **Binarynet: Training deep neural networks with weights and activations constrained to +1 or -1**. Courbariaux et al. Arxiv 2016. [[pdf](https://arxiv.org/pdf/1602.02830.pdf)]
+    - [Reduced numerical precision] **Low precision arithmetic for deep learning**. Courbariaux et al. Workshop ICLR 2015. [[pdf](https://arxiv.org/pdf/1412.7024.pdf)]
+    - [Vector quantization] **Compressing deep convolutional networks using vector quantization**. Gong et al. ICLR 2015. [[pdf](https://arxiv.org/pdf/1412.6115.pdf)]
+    - [Weight sharing] **Compressing Neural Networks with the Hashing Trick**. Chen et al. ICML 2015. [[pdf](https://arxiv.org/pdf/1504.04788.pdf)]
+    - [Weight sharing] **Predicting parameters in deep learning**. Denil et al. NIPS 2013. [[pdf](https://papers.nips.cc/paper/5025-predicting-parameters-in-deep-learning.pdf)]
 - **Smart Reply: Automated Response Suggestion for Email**. Anjuli Kannan et al. KDD 2016. [[pdf](https://www.kdd.org/kdd2016/papers/files/Paper_1069.pdf)]
     - **Large Scale Distributed Semi-Supervised Learning Using Streaming Approximation**. Sujith Ravi and Qiming Diao. AISTATS 2016. [[pdf](https://arxiv.org/pdf/1512.01752.pdf)]
     - **Revisiting the Predictability of Language: Response Completion in Social Media**. Bo Pang and Sujith Ravi. EMNLP 2012. [[pdf](https://www.aclweb.org/anthology/D12-1136.pdf)]
