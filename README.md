@@ -17,3 +17,8 @@
 - **A First Look at Deep Learning Apps on Smartphones**. Mengwei Xu et al. WWW 2018. [[pdf](https://arxiv.org/pdf/1812.05448.pdf)]
 - **AI Benchmark: Running Deep Neural Networks on Android Smartphones**. Andrey Ignatov et al. ECCV Workshops 2018. [[pdf](https://arxiv.org/pdf/1810.01109.pdf)]
 - **AI Benchmark: All About Deep Learning on Smartphones in 2019**. Andrey Ignatov et al. Arxiv. [[pdf](https://arxiv.org/pdf/1910.06663.pdf)]
+
+
+#### Book
+
+- **AI Superpowers: China, Silicon Valley, and the New World Order**. Kai-Fu Lee. 2018.
