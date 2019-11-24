@@ -9,6 +9,7 @@
 - **Self-Governing Neural Networks for On-Device Short Text Classification**. Sujith Ravi and Zornitsa Kozareva. EMNLP 2018. [[pdf](https://www.aclweb.org/anthology/D18-1105.pdf)]
 - **ProjectionNet: Learning Efficient On-Device Deep Networks Using Neural Projections**. Sujith Ravi. Arxiv 2017. [[pdf](https://arxiv.org/pdf/1708.00630.pdf)]
 - **Smart Reply: Automated Response Suggestion for Email**. Anjuli Kannan et al. KDD 2016. [[pdf](https://www.kdd.org/kdd2016/papers/files/Paper_1069.pdf)]
+    - **Large Scale Distributed Semi-Supervised Learning Using Streaming Approximation**. Sujith Ravi and Qiming Diao. AISTATS 2016. [[pdf](https://arxiv.org/pdf/1512.01752.pdf)]
     - **Revisiting the Predictability of Language: Response Completion in Social Media**. Bo Pang and Sujith Ravi. EMNLP 2012. [[pdf](https://www.aclweb.org/anthology/D12-1136.pdf)]
 
 
