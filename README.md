@@ -1,3 +1,16 @@
+#### Book
+
+- **AI Superpowers: China, Silicon Valley, and the New World Order**. Kai-Fu Lee. 2018.
+
+
+#### Overview papers
+
+- **Can Deep Learning Revolutionize Mobile Sensing?**. Nicholas D. Lane and Petko Georgiev. Proceedings of the 16th International Workshop on Mobile Computing Systems and Applications 2015. [[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.679.2975&rep=rep1&type=pdf)]
+- **A First Look at Deep Learning Apps on Smartphones**. Mengwei Xu et al. WWW 2018. [[pdf](https://arxiv.org/pdf/1812.05448.pdf)]
+- **AI Benchmark: Running Deep Neural Networks on Android Smartphones**. Andrey Ignatov et al. ECCV Workshops 2018. [[pdf](https://arxiv.org/pdf/1810.01109.pdf)]
+- **AI Benchmark: All About Deep Learning on Smartphones in 2019**. Andrey Ignatov et al. Arxiv. [[pdf](https://arxiv.org/pdf/1910.06663.pdf)]
+
+
 #### On-device Deep Learning and Natural Language Processing
 
 - **On the Robustness of Projection Neural Networks For Efficient Text Representation: An Empirical Study**. Chinnadhurai Sankar et al. Arxiv 2019. [[pdf](https://arxiv.org/pdf/1908.05763.pdf)]
@@ -17,16 +30,3 @@
 - **Smart Reply: Automated Response Suggestion for Email**. Anjuli Kannan et al. KDD 2016. [[pdf](https://www.kdd.org/kdd2016/papers/files/Paper_1069.pdf)]
     - **Large Scale Distributed Semi-Supervised Learning Using Streaming Approximation**. Sujith Ravi and Qiming Diao. AISTATS 2016. [[pdf](https://arxiv.org/pdf/1512.01752.pdf)]
     - **Revisiting the Predictability of Language: Response Completion in Social Media**. Bo Pang and Sujith Ravi. EMNLP 2012. [[pdf](https://www.aclweb.org/anthology/D12-1136.pdf)]
-
-
-#### Overview papers
-
-- **Can Deep Learning Revolutionize Mobile Sensing?**. Nicholas D. Lane and Petko Georgiev. Proceedings of the 16th International Workshop on Mobile Computing Systems and Applications 2015. [[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.679.2975&rep=rep1&type=pdf)]
-- **A First Look at Deep Learning Apps on Smartphones**. Mengwei Xu et al. WWW 2018. [[pdf](https://arxiv.org/pdf/1812.05448.pdf)]
-- **AI Benchmark: Running Deep Neural Networks on Android Smartphones**. Andrey Ignatov et al. ECCV Workshops 2018. [[pdf](https://arxiv.org/pdf/1810.01109.pdf)]
-- **AI Benchmark: All About Deep Learning on Smartphones in 2019**. Andrey Ignatov et al. Arxiv. [[pdf](https://arxiv.org/pdf/1910.06663.pdf)]
-
-
-#### Book
-
-- **AI Superpowers: China, Silicon Valley, and the New World Order**. Kai-Fu Lee. 2018.
