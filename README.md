@@ -8,8 +8,8 @@
 - **Can Deep Learning Revolutionize Mobile Sensing?**. Nicholas D. Lane and Petko Georgiev. Proceedings of the 16th International Workshop on Mobile Computing Systems and Applications 2015. [[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.679.2975&rep=rep1&type=pdf)]
 - **A First Look at Deep Learning Apps on Smartphones**. Mengwei Xu et al. WWW 2018. [[pdf](https://arxiv.org/pdf/1812.05448.pdf)]
 - **AI Benchmark: Running Deep Neural Networks on Android Smartphones**. Andrey Ignatov et al. ECCV Workshops 2018. [[pdf](https://arxiv.org/pdf/1810.01109.pdf)]
-- **AI Benchmark: All About Deep Learning on Smartphones in 2019**. Andrey Ignatov et al. Arxiv. [[pdf](https://arxiv.org/pdf/1910.06663.pdf)]
-- **Performance Analysis and Characterization of Training Deep Learning Models on Mobile Devices**. Liu et al. Arxiv. [[pdf](https://arxiv.org/pdf/1906.04278.pdf)]
+- **AI Benchmark: All About Deep Learning on Smartphones in 2019**. Andrey Ignatov et al. Arxiv 2019. [[pdf](https://arxiv.org/pdf/1910.06663.pdf)]
+- **Performance Analysis and Characterization of Training Deep Learning Models on Mobile Devices**. Liu et al. Arxiv 2019. [[pdf](https://arxiv.org/pdf/1906.04278.pdf)]
 - **Exploring the Capabilities of Mobile Devices in Supporting Deep Learning**. Chen et al. International Symposium on High-Performance Parallel and Distributed Computing 2019. [[pdf](http://delivery.acm.org/10.1145/3370000/3363316/p127-chen.pdf?ip=93.22.151.251&id=3363316&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1575412991_c22692e401fdf5878d340dc67d4d8ad0)]
 
 
